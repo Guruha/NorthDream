@@ -22,7 +22,8 @@ with st.container():
     st.sidebar.write("##")
     st.sidebar.write("Designer: Tzouks")
     st.sidebar.write("Social: Mele")
-    st.sidebar.write("Finance: Louki")
+    st.sidebar.write("Finance: Kofi")
+    st.sidebar.write("Managing: Louki")
     for i in range(15):
         st.sidebar.write("##")
     st.sidebar.write("Copyright@2023")
