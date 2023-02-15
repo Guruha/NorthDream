@@ -20,10 +20,9 @@ with st.container():
     st.sidebar.write("##")
     st.sidebar.write("Located in Athens we started in 2023 and our fist product are the cubik blocks!")
     st.sidebar.write("##")
-    st.sidebar.write("Designer: Filippos Tsoukias")
-    st.sidebar.write("Social: Nikos Melegovits")
-    st.sidebar.write("Finance: Filippos Colagrande")
-    st.sidebar.write("Managing: Lakios Padelis")
+    st.sidebar.write("Designer: Tzouks")
+    st.sidebar.write("Social: Mele")
+    st.sidebar.write("Finance: Louki")
     for i in range(15):
         st.sidebar.write("##")
     st.sidebar.write("Copyright@2023")
